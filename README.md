@@ -5,10 +5,8 @@
   
 
   <br><br>
+  Adam Mahmoud
 
-  <!-- اسمك بأنيميشن فخم -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1200&color=E8E8E8&center=true&vCenter=true&width=520&lines=Adam+Mahmoud;آدم+محمود" alt="Adam Mahmoud" />
   </a>
 
   <br><br>
