@@ -3,8 +3,6 @@
   <!-- صورة علم فلسطين بعرض البروفايل كامل -->
   <img src="https://imgs.search.brave.com/UoyLXLos6jJztmDyy3EDXbwdHCocSAwu3qHOEOJMe-I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2Fpcm8yNC5jb20v/VXBsb2FkQ2FjaGUv/bGliZmlsZXMvMTE1/LzIvNDAweDIyNW8v/NjE0LmpwZw" width="100%" alt="علم فلسطين"/>
   
-  <!-- لو الصورة فوق اتكسرت استخدم دي بدلها (موثوقة جدًا) -->
-  <!-- <img src="https://flagcdn.com/w1280/ps.png" width="100%" alt="علم فلسطين"/> -->
 
   <br><br>
 
