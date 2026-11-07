@@ -1,63 +1,53 @@
-<!-- 🌌 ANIMATED DARK-FANTASY HEADER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:08051A,48:32146D,100:00D4FF&amp;height=280&amp;section=header&amp;text=ADAM%20MAHMOUD&amp;fontSize=50&amp;fontColor=F8FAFC&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=SOFTWARE%20DEVELOPER%20-%20ANIME%20AND%20GAMING&amp;descSize=17&amp;descAlignY=60"
-    width="100%"
-    alt="Adam Mahmoud — Software Developer"
-  />
-</p>
+<div align="center">
 
-<!-- ✨ ANIMATED TYPING -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2500&amp;pause=1000&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Developer;Turning+Ideas+Into+Code;Anime+%26+Fantasy+Enthusiast"
-    alt="Animated introduction"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6D28D9,100:06B6D4&height=230&section=header&text=Adam%20Mahmoud&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20ANIME%20%26%20GAMING&descAlignY=58&descSize=17" width="100%" alt="Adam Mahmoud — Software Developer">
 
-<!-- 🧙 ANIME & FANTASY GIFS -->
-<p align="center">
-  <a href="https://giphy.com/gifs/elf-girl-vespera-nocturne-vY0IAJcslCpeDhwyQc">
-    <img
-      src="https://media.giphy.com/media/vY0IAJcslCpeDhwyQc/giphy.gif"
-      width="340"
-      alt="Dark fantasy anime elf animation"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://giphy.com/gifs/magic-witch-hunter-AirfTWrRO7HgGvYIUY">
-    <img
-      src="https://media.giphy.com/media/AirfTWrRO7HgGvYIUY/giphy.gif"
-      width="340"
-      alt="Anime fantasy magic battle animation"
-    />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=Software+Developer;Turning+ideas+into+code;Anime+%26+Gaming+Enthusiast" alt="Typing SVG">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GitHub-AdamMahmoud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+
+</div>
 
 ---
 
+## 👾 Player Profile
+
+| | |
+|---|---|
+| **Class** | Software Developer |
+| **Side quests** | Anime · Gaming · Learning |
+| **Main quest** | Building useful software and improving every day |
+
 ## 🧑‍💻 About Me
 
-Hi, I'm **Adam Mahmoud** — a software developer who enjoys building useful projects,
-solving problems, and improving through hands-on learning.
+I enjoy solving problems and turning ideas into practical software.  
+I’m always learning through hands-on projects—and when I’m away from code, I enjoy anime and games.
 
-When I'm away from coding, I'm into **anime, gaming, and fantasy worlds**.
+## 🧰 Tech Stack
 
-## ⚔️ Current Quest
+<!-- Replace these with technologies you actually use -->
+- **Languages:** `Add your languages`
+- **Frameworks:** `Add your frameworks`
+- **Tools:** `Add your tools`
 
-- Turning ideas into useful software.
-- Learning new things with every project.
-- Exploring new worlds through anime, games, and code.
+## 📊 GitHub Stats
 
-<p align="center">
-  <i>“Every great world starts with a single line of code.”</i>
-</p>
+<div align="center">
 
-<!-- 🌊 FOOTER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D4FF,100:08051A&amp;height=100&amp;section=footer"
-    width="100%"
-    alt=""
-  />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdamMahmoud&show_icons=true&theme=tokyonight&hide_border=true" alt="Adam's GitHub stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMahmoud&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=AdamMahmoud&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+<div align="center">
+  <i>Keep learning. Keep building. Keep leveling up. 🎮</i>
+</div>
