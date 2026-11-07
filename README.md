@@ -42,10 +42,3 @@
   <br><br><br>
 
   ### مطور برمجة ويب و أب و كريتور سيستم
-
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=AdamMahmoudX&label=Profile%20Views&color=1A1A1A&style=flat-square" alt="profile views"/>
-
-</div>
-ملاحظات سريعة:
